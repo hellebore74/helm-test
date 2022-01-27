@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  ubuntu-pod:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-01-27T06:06:02.00049435+01:00"
+    description: A Helm chart for Kubernetes
+    digest: 26030ba3cc042d2c29df5f60c837fb58322f99da2beef4b1389e31118a1b2db6
+    name: ubuntu-pod
+    type: application
+    urls:
+    - https://github.com/hellebore74/helm-test/ubuntu-pod-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-01-27T06:06:01.999447159+01:00"
