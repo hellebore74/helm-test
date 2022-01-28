@@ -3,12 +3,23 @@ entries:
   ubuntu-pod:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-01-28T13:48:34.254640959+01:00"
+    created: "2022-01-28T18:44:03.729029928+01:00"
     description: A Helm chart for Kubernetes
-    digest: b13ee0f9e6c30c9f166ebfad898011eb72c512a26f05e113fa488e5860ac8600
+    digest: 8c6efe4157643945669c65a431acfd429e7aaebaf7b9dab655ebeefd5aa10ae3
     name: ubuntu-pod
     type: application
     urls:
-    - https://hellebore74.github.io/helm-test/ubuntu-pod-0.1.0.tgz
+    - https://hellebore74.github/.io/helm-test/ubuntu-pod-0.1.0.tgz
     version: 0.1.0
-generated: "2022-01-28T13:48:34.253396586+01:00"
+  ubuntu-pod2:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-01-28T18:44:03.729554068+01:00"
+    description: A Helm chart for Kubernetes
+    digest: bf14e0d5aff397203446a46805e3e25e8e9d360ccebfd792b1f51b8ceb7ebef6
+    name: ubuntu-pod2
+    type: application
+    urls:
+    - https://hellebore74.github/.io/helm-test/ubuntu-pod2-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-01-28T18:44:03.72825762+01:00"
