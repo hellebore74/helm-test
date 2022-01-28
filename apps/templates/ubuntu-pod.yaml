@@ -11,7 +11,7 @@ spec:
     namespace: default
   project: default
   source:
-    chart: ubuntu-pod
+    path: charts/ubuntu-pod
     repoURL: https://github.com/hellebore74/helm-test.git
     targetRevision: HEAD
   syncPolicy:
